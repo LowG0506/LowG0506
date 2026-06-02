@@ -30,7 +30,7 @@
 - Pagination & Filtering  
 - Caching Strategy & Performance Optimization  
 - Concurrency Handling (Seat Locking)
-
+- VibeCoding
 ---
 
 ## 📊 GitHub Stats
