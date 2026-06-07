@@ -34,7 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LowG0506&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LowG0506&show_icons=true&theme=radical&v=1)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LowG0506&theme=radical)
@@ -57,4 +57,4 @@
 ---
 
 ## ⚡ Fun Fact
-I love turning complex backend problems into simple and efficient solutions 🚀
+I like the feeling of completing a new idea.
